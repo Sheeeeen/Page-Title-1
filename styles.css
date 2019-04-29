@@ -1,0 +1,30 @@
+h1 {
+    text-align: center;
+    border: groove gold 10px;
+}
+
+.c {
+    display: flex;
+    justify-content: space-around;
+    border: groove gold 10px;
+}
+
+.i {
+    display: flex;
+    justify-content: space-around;
+}
+.t {
+    display: flex;
+    justify-content: space-around;
+    border: groove gold 10px;
+}
+
+.ipt {
+    display: flex;
+    justify-content: space-around;
+}
+
+.b {
+    display: flex;
+    justify-content: space-around;
+}
